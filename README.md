@@ -67,6 +67,3 @@ Import the provided Postman collection (`Trading-SDK.postman_collection.json`) o
 - 400 - Validation Error
 - 404 - Resource Not Found
 - 500 - Server Error
-
-## 📝 License
-Apache 2.0
